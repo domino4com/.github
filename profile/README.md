@@ -13,5 +13,6 @@ Technology for teaching IoT and aerospace related topics.
 
 - `xxx`: A repository for each xChip, identified by their 3 letter name. See [`xChips`](https://github.com/domino4com/xChips) to learn their names.
 - search for 'CAM' to see a repository using a camera on the extended core.
+- or just browse the list of all the repositories, to get an understanding of the eco system.
 
 ### Enjoy
